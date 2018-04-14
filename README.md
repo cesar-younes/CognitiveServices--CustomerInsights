@@ -1,1 +1,1 @@
-# CognitiveServices--CustomerInsights
+# CognitiveServices-CustomerInsights
